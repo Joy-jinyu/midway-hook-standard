@@ -1,0 +1,35 @@
+$large-length: 24px;
+$medium-length: 16px;
+$small-length: 12px;
+$x-small-length: 8px;
+$xs-small-length: 4px;
+$line-height-base: 1.66667;
+$word-spacing: 4px;
+
+// font-size
+$font-size-xss: var(--font-size-xss);
+$font-size-base: var(--font-size-base);
+$font-size-xs: var(--font-size-xs);
+$font-size-md: var(--font-size-md);
+$font-size-sm: var(--font-size-sm);
+
+// paddings
+$padding-lg: var(--padding-lg); // containers
+$padding-md: var(--padding-md); // small containers and buttons
+$padding-sm: var(--padding-sm); // Form controls and items
+$padding-xs: var(--padding-xs); // small items
+$padding-xss: var(--padding-xss); // more small$
+
+// vertical margins
+$margin-lg: var(--margin-lg); // containers
+$margin-md: var(--margin-md); // small containers and buttons
+$margin-sm: var(--margin-sm); // Form controls and items
+$margin-xs: var(--margin-xs); // small items
+$margin-xss: var(--margin-xss); // more small
+
+// height rules
+$height-base: 32px;
+$height-lg: 40px;
+$height-sm: 24px;
+$border-radius-base: 2px;
+$border-radius-xs: 4px;

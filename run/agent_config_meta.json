@@ -1,0 +1,263 @@
+{
+  "session": {
+    "maxAge": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-session@3.3.0/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-session@3.3.0/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-session@3.3.0/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-session@3.3.0/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-session@3.3.0/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/@midwayjs+web@3.4.13_@midwayjs+decorator@3.4.11/node_modules/@midwayjs/web/dist/config/config.default.js",
+      "useSession": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js",
+      "supportedRequests": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-jsonp@2.0.0/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-jsonp@2.0.0/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-jsonp@2.0.0/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-onerror@2.1.1/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-onerror@2.1.1/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-onerror@2.1.1/node_modules/egg-onerror/config/config.default.js"
+  },
+  "env": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "name": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "keys": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "version": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "private": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "start": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "dev": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "build": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "lint:fix": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "stylelint:fix": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "@koa/cors": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "@midwayjs/hooks": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "@midwayjs/hooks-kit": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "@midwayjs/koa": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "@midwayjs/rpc": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "@midwayjs/web": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "ahooks": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "egg": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "isomorphic-unfetch": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "react": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "react-dom": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "@midwayjs/decorator": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "@midwayjs/egg-ts-helper": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "@types/node": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "@types/react": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "@types/react-dom": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "@typescript-eslint/eslint-plugin": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "@typescript-eslint/parser": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "@vitejs/plugin-react": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "esbuild": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "eslint-config-airbnb": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "eslint-config-prettier": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "eslint-plugin-import": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "eslint-plugin-jsx-a11y": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "eslint-plugin-prettier": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "eslint-plugin-react": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "eslint-plugin-react-hooks": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "postcss": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "postcss-px2rem": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "prettier": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "sass": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "stylelint": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "stylelint-config-prettier-scss": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "stylelint-config-standard-scss": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "ts-node": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "typescript": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "zod": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/@midwayjs+web@3.4.13_@midwayjs+decorator@3.4.11/node_modules/@midwayjs/web/dist/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "cacheControl": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "strict": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "depth": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "env": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "level": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "enablePerformanceTimer": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "logging": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "port": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "midwayLogger": {
+    "clients": {
+      "appLogger": {
+        "fileLogName": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/@midwayjs+web@3.4.13_@midwayjs+decorator@3.4.11/node_modules/@midwayjs/web/dist/config/config.default.js",
+        "aliasName": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/@midwayjs+web@3.4.13_@midwayjs+decorator@3.4.11/node_modules/@midwayjs/web/dist/config/config.default.js"
+      },
+      "agentLogger": {
+        "fileLogName": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/@midwayjs+web@3.4.13_@midwayjs+decorator@3.4.11/node_modules/@midwayjs/web/dist/config/config.default.js"
+      }
+    }
+  },
+  "egg": {
+    "dumpConfig": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/@midwayjs+web@3.4.13_@midwayjs+decorator@3.4.11/node_modules/@midwayjs/web/dist/config/config.default.js",
+    "contextLoggerFormat": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/@midwayjs+web@3.4.13_@midwayjs+decorator@3.4.11/node_modules/@midwayjs/web/dist/config/config.default.js",
+    "queryParseMode": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/@midwayjs+web@3.4.13_@midwayjs+decorator@3.4.11/node_modules/@midwayjs/web/dist/config/config.default.js",
+    "plugins": {
+      "egg-mock": {
+        "enable": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/@midwayjs+web@3.4.13_@midwayjs+decorator@3.4.11/node_modules/@midwayjs/web/dist/config/config.local.js",
+        "package": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/@midwayjs+web@3.4.13_@midwayjs+decorator@3.4.11/node_modules/@midwayjs/web/dist/config/config.local.js"
+      }
+    }
+  },
+  "pluginOverwrite": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/@midwayjs+web@3.4.13_@midwayjs+decorator@3.4.11/node_modules/@midwayjs/web/dist/config/config.default.js",
+  "alinode": {
+    "logdir": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/@midwayjs+web@3.4.13_@midwayjs+decorator@3.4.11/node_modules/@midwayjs/web/dist/config/config.default.js",
+    "error_log": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/@midwayjs+web@3.4.13_@midwayjs+decorator@3.4.11/node_modules/@midwayjs/web/dist/config/config.default.js",
+    "packages": "/Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/@midwayjs+web@3.4.13_@midwayjs+decorator@3.4.11/node_modules/@midwayjs/web/dist/config/config.default.js"
+  }
+}

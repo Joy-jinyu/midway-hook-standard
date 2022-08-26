@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Process Start",
+    "start": 1661505627568,
+    "end": 1661505628759,
+    "duration": 1191,
+    "pid": 35850,
+    "index": 0
+  },
+  {
+    "name": "Application Start",
+    "start": 1661505628760,
+    "end": 1661505628807,
+    "duration": 47,
+    "pid": 35850,
+    "index": 1
+  },
+  {
+    "name": "Load Plugin",
+    "start": 1661505628763,
+    "end": 1661505628772,
+    "duration": 9,
+    "pid": 35850,
+    "index": 2
+  },
+  {
+    "name": "Load Config",
+    "start": 1661505628772,
+    "end": 1661505628778,
+    "duration": 6,
+    "pid": 35850,
+    "index": 3
+  },
+  {
+    "name": "Require(0) /Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-session@3.3.0/node_modules/egg-session/config/config.default.js",
+    "start": 1661505628772,
+    "end": 1661505628773,
+    "duration": 1,
+    "pid": 35850,
+    "index": 4
+  },
+  {
+    "name": "Require(1) /Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.default.js",
+    "start": 1661505628773,
+    "end": 1661505628773,
+    "duration": 0,
+    "pid": 35850,
+    "index": 5
+  },
+  {
+    "name": "Require(2) /Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-jsonp@2.0.0/node_modules/egg-jsonp/config/config.default.js",
+    "start": 1661505628774,
+    "end": 1661505628774,
+    "duration": 0,
+    "pid": 35850,
+    "index": 6
+  },
+  {
+    "name": "Require(3) /Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-onerror@2.1.1/node_modules/egg-onerror/config/config.default.js",
+    "start": 1661505628775,
+    "end": 1661505628775,
+    "duration": 0,
+    "pid": 35850,
+    "index": 7
+  },
+  {
+    "name": "Require(4) /Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "start": 1661505628775,
+    "end": 1661505628775,
+    "duration": 0,
+    "pid": 35850,
+    "index": 8
+  },
+  {
+    "name": "Require(5) /Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/@midwayjs+web@3.4.13_@midwayjs+decorator@3.4.11/node_modules/@midwayjs/web/dist/config/config.default.js",
+    "start": 1661505628776,
+    "end": 1661505628776,
+    "duration": 0,
+    "pid": 35850,
+    "index": 9
+  },
+  {
+    "name": "Require(6) /Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/config/config.local.js",
+    "start": 1661505628777,
+    "end": 1661505628777,
+    "duration": 0,
+    "pid": 35850,
+    "index": 10
+  },
+  {
+    "name": "Require(7) /Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.local.js",
+    "start": 1661505628777,
+    "end": 1661505628778,
+    "duration": 1,
+    "pid": 35850,
+    "index": 11
+  },
+  {
+    "name": "Require(8) /Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/@midwayjs+web@3.4.13_@midwayjs+decorator@3.4.11/node_modules/@midwayjs/web/dist/config/config.local.js",
+    "start": 1661505628778,
+    "end": 1661505628778,
+    "duration": 0,
+    "pid": 35850,
+    "index": 12
+  },
+  {
+    "name": "Before Start in node_modules/.pnpm/@midwayjs+web@3.4.13_@midwayjs+decorator@3.4.11/node_modules/@midwayjs/web/dist/base.js:235:22",
+    "start": 1661505628779,
+    "end": 1661505628805,
+    "duration": 26,
+    "pid": 35850,
+    "index": 13
+  },
+  {
+    "name": "Load extend/agent.js",
+    "start": 1661505628789,
+    "end": 1661505628791,
+    "duration": 2,
+    "pid": 35850,
+    "index": 14
+  },
+  {
+    "name": "Require(9) /Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/app/extend/agent.js",
+    "start": 1661505628789,
+    "end": 1661505628790,
+    "duration": 1,
+    "pid": 35850,
+    "index": 15
+  },
+  {
+    "name": "Require(10) /Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/@midwayjs+web@3.4.13_@midwayjs+decorator@3.4.11/node_modules/@midwayjs/web/app/extend/agent.js",
+    "start": 1661505628790,
+    "end": 1661505628790,
+    "duration": 0,
+    "pid": 35850,
+    "index": 16
+  },
+  {
+    "name": "Load extend/context.js",
+    "start": 1661505628791,
+    "end": 1661505628800,
+    "duration": 9,
+    "pid": 35850,
+    "index": 17
+  },
+  {
+    "name": "Require(11) /Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/app/extend/context.js",
+    "start": 1661505628791,
+    "end": 1661505628796,
+    "duration": 5,
+    "pid": 35850,
+    "index": 18
+  },
+  {
+    "name": "Require(12) /Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-jsonp@2.0.0/node_modules/egg-jsonp/app/extend/context.js",
+    "start": 1661505628796,
+    "end": 1661505628797,
+    "duration": 1,
+    "pid": 35850,
+    "index": 19
+  },
+  {
+    "name": "Require(13) /Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/app/extend/context.js",
+    "start": 1661505628798,
+    "end": 1661505628798,
+    "duration": 0,
+    "pid": 35850,
+    "index": 20
+  },
+  {
+    "name": "Require(14) /Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/@midwayjs+web@3.4.13_@midwayjs+decorator@3.4.11/node_modules/@midwayjs/web/app/extend/context.js",
+    "start": 1661505628799,
+    "end": 1661505628799,
+    "duration": 0,
+    "pid": 35850,
+    "index": 21
+  },
+  {
+    "name": "Load agent.js",
+    "start": 1661505628800,
+    "end": 1661505628805,
+    "duration": 5,
+    "pid": 35850,
+    "index": 22
+  },
+  {
+    "name": "Require(15) /Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/agent.js",
+    "start": 1661505628800,
+    "end": 1661505628800,
+    "duration": 0,
+    "pid": 35850,
+    "index": 23
+  },
+  {
+    "name": "Require(16) /Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg-onerror@2.1.1/node_modules/egg-onerror/agent.js",
+    "start": 1661505628801,
+    "end": 1661505628801,
+    "duration": 0,
+    "pid": 35850,
+    "index": 24
+  },
+  {
+    "name": "Require(17) /Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/egg@2.36.0/node_modules/egg/agent.js",
+    "start": 1661505628804,
+    "end": 1661505628804,
+    "duration": 0,
+    "pid": 35850,
+    "index": 25
+  },
+  {
+    "name": "Require(18) /Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/@midwayjs+web@3.4.13_@midwayjs+decorator@3.4.11/node_modules/@midwayjs/web/agent.js",
+    "start": 1661505628804,
+    "end": 1661505628804,
+    "duration": 0,
+    "pid": 35850,
+    "index": 26
+  },
+  {
+    "name": "Did Load in /Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/@midwayjs+web@3.4.13_@midwayjs+decorator@3.4.11/node_modules/@midwayjs/web/agent.js:didLoad",
+    "start": 1661505628805,
+    "end": 1661505628806,
+    "duration": 1,
+    "pid": 35850,
+    "index": 27
+  },
+  {
+    "name": "Will Ready in /Users/joy/workspace/hello/midway-hooks-standard/node_modules/.pnpm/@midwayjs+web@3.4.13_@midwayjs+decorator@3.4.11/node_modules/@midwayjs/web/agent.js:willReady",
+    "start": 1661505628807,
+    "end": 1661505628807,
+    "duration": 0,
+    "pid": 35850,
+    "index": 28
+  }
+]

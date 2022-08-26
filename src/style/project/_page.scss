@@ -1,0 +1,32 @@
+.page-wrapper {
+  padding: $padding-xs;
+
+  .page-search {
+    padding: $padding-xs;
+    border-bottom: 1px solid $primary-3;
+
+    &__action {
+      button {
+        &:last-child {
+          margin-left: $margin-xss;
+        }
+      }
+    }
+  }
+
+  .page-body {
+    margin: $margin-xs;
+
+    &__operate {
+      margin: $margin-xs 0;
+
+      > * + * {
+        margin-left: $margin-xss;
+      }
+    }
+  }
+}
+
+.flex-grow {
+  flex: 1 1 auto;
+}

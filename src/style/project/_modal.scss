@@ -1,0 +1,19 @@
+.ant-modal-content {
+  display: flex;
+  flex-flow: column;
+  overflow: auto;
+  max-height: 80vh;
+
+  .ant-modal-header {
+    flex: 0 0 auto;
+  }
+
+  .ant-modal-body {
+    flex: 1 1 auto;
+    overflow: auto;
+  }
+
+  .ant-modal-footer {
+    flex: 0 0 auto;
+  }
+}
